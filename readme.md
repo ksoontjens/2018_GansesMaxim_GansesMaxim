@@ -1,4 +1,4 @@
-# Afbeeldingen
+## Afbeeldingen
 
 * de afbeeldingen die we gebruiken staan in de map afbeeldingen
 
