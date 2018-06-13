@@ -9,3 +9,9 @@
 ## Concept
 
 * Je kan armbanden kopen van een winkel, deze kan je in je winkelwagentje steken. Je kan ook je winkelwagen bekijken door op het winkelwagentje te drukken of rechtstreeks betalen.
+
+## Groepsleden
+
+* Ruben Van der Meirsch: gewerkt aan achtergronden en geholpen aan code
+
+* Maxim Ganses: gewerkt aan code en controls
